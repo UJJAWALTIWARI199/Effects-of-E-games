@@ -12,4 +12,4 @@ Overall, this research has the potential to provide valuable insights into the i
 
 measures, the study can help to minimize the negative consequences of participating in these activities and promote the development of healthy, well-rounded individuals.
 
-This repository contains a final year project with datasets and it made by final year students from sharda university.
+This repository contains a final year project with datasets and it was made by two final year students from the Sharda University.
